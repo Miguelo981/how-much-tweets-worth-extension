@@ -1,7 +1,7 @@
 {
   "name": "How much Tweets are worth?",
   "description": "This extension calculates how much each tweet is worth based on the impressions.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "manifest_version": 3,
   "icons": {
     "48": "logo-48.png",
